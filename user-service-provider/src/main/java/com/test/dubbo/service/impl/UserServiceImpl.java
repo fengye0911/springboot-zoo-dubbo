@@ -1,0 +1,18 @@
+package com.test.dubbo.service.impl;
+
+import com.example.dubbo.bean.UserAddress;
+import com.example.dubbo.service.UserService;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class UserServiceImpl implements UserService {
+
+	//@Override
+	public List<UserAddress> getUserAddressList(String userId) {
+		UserAddress address1 = new UserAddress(1, "北京市昌平区", "1", "李老师", "010-56253825", "Y");
+		UserAddress address2 = new UserAddress(2, "深圳市宝安区", "1", "王老师", "010-56253825", "N");
+		return Arrays.asList(address1,address2);
+	}
+
+}
