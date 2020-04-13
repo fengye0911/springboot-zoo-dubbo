@@ -1,6 +1,6 @@
-package com.example.dubbo.service;
+package com.test.dubbo.service;
 
-import com.example.dubbo.bean.UserAddress;
+import com.test.dubbo.bean.UserAddress;
 
 import java.util.List;
 

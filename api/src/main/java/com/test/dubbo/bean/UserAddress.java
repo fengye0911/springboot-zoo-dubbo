@@ -1,4 +1,4 @@
-package com.example.dubbo.bean;
+package com.test.dubbo.bean;
 import java.io.Serializable;
 public class UserAddress implements Serializable {
 	

@@ -1,6 +1,6 @@
 package com.test.dubbo.service.impl;
 
-import com.example.dubbo.service.OrderService;
+import com.test.dubbo.service.OrderService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.io.IOException;

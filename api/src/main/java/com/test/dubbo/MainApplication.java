@@ -1,4 +1,4 @@
-package com.example.dubbo;
+package com.test.dubbo;
 
 import java.io.IOException;
 

@@ -1,8 +1,8 @@
 package com.test.dubbo.service.impl;
 
-import com.example.dubbo.bean.UserAddress;
-import com.example.dubbo.service.OrderService;
-import com.example.dubbo.service.UserService;
+import com.test.dubbo.bean.UserAddress;
+import com.test.dubbo.service.OrderService;
+import com.test.dubbo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
